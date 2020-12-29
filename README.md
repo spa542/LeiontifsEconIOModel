@@ -22,10 +22,10 @@ Then proceed with useing ./main in order to run the program.
 Follow the Makefile instructions above to run the program without any manual work. If
 not using Makefile, then you must compile the .cpp files into .o files.
 (g++ -c main.cpp) Then you must link those with a final compilation all while labeling
-the output file as iomodel or driver
-**You must use -std=c++11 within your compilation steps
+the output file as iomodel or driver\
+**You must use -std=c++11 within your compilation steps.**\
 **Examples used in data.txt do not represent real world examples and some will have
-negative outputs for the final answer
+negative outputs for the final answer.**
 <br /> <br />
 ## data.txt Format:
 *START OF FILE*\
